@@ -1,10 +1,9 @@
-import abc
-
+from random import randrange 
 
 money = 2000
 hungry = True
 icecream_price = 100
-percentage = 19
+percentage = randrange(70)
 
 if money > icecream_price and hungry == True:
     percentage += 20
