@@ -1,1 +1,1 @@
-Bastante bien la verdad.
+Tendría que haber hecho algún diagrama de fujo más pero es que son muy aburridos y para un programa que solo tiene una instrucción como que no, para proyectos grandes sin problema pero para esto, lo siento pero no
